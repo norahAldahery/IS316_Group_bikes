@@ -2,3 +2,4 @@ Is316
 Norah:git helps our team collaborate
 jana: GitHub makes teamwork easier.
 Najla: Git allows us to return to previous versions
+Rama: GitHub maintains a complete commit history
